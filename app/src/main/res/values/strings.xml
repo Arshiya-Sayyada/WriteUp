@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WriteUp</string>
+    <string name="next">NEXT</string>
+    <string name="start">LETS START!</string>
+    <string name="character">CHARACTER</string>
+    <string name="outline">OUTLINE</string>
+    <string name="profile">PROFILE</string>
+    <string name="home">HOME</string>
+    <string name="yes">YEAH!</string>
+    <string name="no">NAH! IM GOOD</string>
+    <string name="S7_desp">Every Story has an underlying theme (or) concept (or) message that it conveys. Every scene that you write must be written with this central theme in mind. This will help you stay on track.</string>
+</resources>

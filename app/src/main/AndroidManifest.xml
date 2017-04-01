@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.miniproject32.writeup">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".S1Intro"
+            android:label="screen1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".S2CharacterIntro"
+            android:label="screen2">
+
+        </activity>
+        <activity android:name=".S3Character"
+            android:label="screen3" />
+        <activity android:name=".S4"
+            android:label="screen4" />
+        <activity android:name=".S5"
+            android:label="screen5" />
+        <activity android:name=".S6"
+            android:label="screen6" />
+        <activity android:name=".Home"
+            android:label="screen22">
+        </activity>
+        <activity android:name=".S7"
+            android:label="screen7" />
+        <activity android:name=".S8"
+            android:label="screen8" />
+    </application>
+
+</manifest>
